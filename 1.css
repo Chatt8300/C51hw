@@ -1,0 +1,86 @@
+body {
+    background-color:lightseagreen;
+}
+h1 {
+    text-align: center;
+    color:rgb(255, 208, 0);
+    }
+    h2 {
+    text-align: center;
+    color: rgb(255, 153, 0);
+    }      
+    h3 {
+    text-align: center;
+    color:rgb(118, 208, 0);
+    }
+    .camel{
+      opacity: 1;
+      color: rgb(224, 222, 210);
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      background-color:rgb(1, 255, 234)
+    }
+    .topnav {
+        background-color: rgb(0, 255, 0);
+        overflow: hidden;
+      }
+      
+      /* Style the links inside the navigation bar */
+      .topnav a {
+        float: left;
+        color: #000000;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      /* Change the color of links on hover */
+      .topnav a:hover {
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+      }
+      
+      /* Add a color to the active/current link */
+      .topnav a.active {
+        background-color: #02e2bd;
+        color: rgb(0, 0, 0);
+      }    
+      .cf{
+        background-color: rgb(255, 248, 149);
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
+      * {
+        border: solid 2px;
+        opacity:1;
+      }
+      .cr{
+        background-image:url("wal.jpg");
+        color:rgb(0, 126, 135)
+      }
+      .cp{
+        background-color: rgb(145, 255, 0);
+        color:rgb(174, 0, 255)
+      }
+      .cl{
+        background-color: rgb(0, 238, 255);
+        color:rgb(20, 138, 138)
+      }
+      .camelA{
+        opacity: 1;
+        color: rgb(248, 232, 143);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:rgb(0, 255, 13)
+      }
+      .camelA:hover{
+        opacity: 1;
+      }
+     
+      .camel:hover{
+        opacity: 1;
+      }
